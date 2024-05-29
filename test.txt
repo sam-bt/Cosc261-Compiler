@@ -1,0 +1,19 @@
+read z;
+
+if not z > 5 then
+  write 99
+end;
+
+if 11 <= z or z > 1 and z = 2 then
+  write 5
+else
+  write 4
+end;
+
+if z <= 5 then
+  write z;
+  while z > 0 do 
+  z := z - 1
+  end;
+  write z
+end
