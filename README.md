@@ -1,5 +1,6 @@
 ## About
-This is a fully functional compiler that I coded, based on a provided template provided in the Cosc-261 course that converts a basic program into JVM instructions to produce an output
+This is a fully functional compiler that I coded, based on a provided template provided in the Cosc-261 course that converts a basic program into JVM instructions to produce an output.
+
 I have added comments on the classes/functions that were written by me
 
 ## Authors
